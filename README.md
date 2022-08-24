@@ -12,8 +12,8 @@
 <br>
 <br>
 <p>ALEXANDRE DOS SANTOS OLIVEIRA</p>
-<p>RAFAELA BORBA FALCÃO CIRINO</p>
 <p>MOZART LIMA DO NASCIMENTO</p>
+<p>RAFAELA BORBA FALCÃO CIRINO</p>
 <br>
 <br>
 <br>
@@ -80,7 +80,7 @@
 <br>
 <p>Neste projeto foi possível a elaboração de um protótipo com a funçãod e realizar o controle de temperatura e umidade em um ambiente, além disso, o sistema dispara alertas para umidades abaixo das permitidas ou temperaturas fora do range estabelecido. Para isso, foi instalado um buzzer e sensores de monitoramento e o uso do wifi para conexão e troca de informações.</p>
 <br>
-<p>Relatório do projeto em pdf: <a href=""> aqui</a>.</p>
+<p>Relatório do projeto em pdf: <a href="https://github.com/rafaelacirino/SistemasEmbarcados/blob/master/Relat%C3%B3rio/Relat%C3%B3rio.pdf"> aqui</a>.</p>
 <br>
 <p>Diagrama de blocos: <a href=""> aqui</a>.</p>
 <br>
