@@ -37,9 +37,16 @@
 <br>
 <p></p>
 <br>
-<p><b>Objetivos</b></p>
+<p><b>Objetivos Gerais e Específicos</b></p>
 <br>
-<p>Este trabalho tem como objetivo demonstrar um projeto de braço robótico modelado pelo software Autocad Fusion 360 para que seja utilizado na automação agrícola. O braço robótico modelado servirá para auxiliar a organização de caixas na distribuição de alimentos, ou seja, um robô paletizador de caixas o qual é responsável por todo processo logístico, garantindo organização da mercadoria de maneira automatizada.</p>
+<p>Este trabalho tem como objetivo automatizar o controle de umidade no ambiente com o auxílio de microcontrolador ESP32 wifi.</p>
+<p>A partir desse objetivo, foi possível elencar outros mais específicos, como:
+<ul>
+  <li>programar o ESP32 wifi para que mantenha os níveis ideais de umidade no ambiente antravés da coleta pelos sensores;</li>
+  <li>possibilitar que o microcontrolador mantenha os níveis ideais de condutividade elétrica para que seja realizada a cultura, através de leitura dos dados coletados;</li>
+  <li>monitorar a umidade do ambiente a fim de analisar resultados.</li>
+</ul></p>
+<p>Dessa forma, além de acompanhar os dados, foi passível levantar dados sobre a umidade do ambiente analisado. O diferencial encontra-se na utilização do sensor para realizar a verificação da temperatura do ambiente como também, a umidade.</p>
 <br>
 <p><b>Atividades Executadas</b></p>
 <br>
