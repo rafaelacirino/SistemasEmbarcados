@@ -13,7 +13,7 @@
 <br>
 <p>ALEXANDRE DOS SANTOS OLIVEIRA</p>
 <p>RAFAELA BORBA FALCÃO CIRINO</p>
-<p>MOZART</p>
+<p>MOZART LIMA DO NASCIMENTO</p>
 <br>
 <br>
 <br>
@@ -53,9 +53,11 @@
 <p>Para elaboração deste projeto, foi utilizado o Eclipse para codificação do projeto, e utilizamos também:
 <ul>
   <li>Microcontrolador ESP32 Wifi;</li>
-  <li>Sensor DHT11 com módulo;</li>
+  <li>Sensor DHT11 de umidade e temperatura com módulo;</li>
   <li>Sensor ultrassônico HC-SR04;</li>
-  <li>LEDs para identificação de status.</li>
+  <li>LEDs para identificação de status;</li>
+  <li>Buzzer;</li>
+  <li>Servo Motor Micro 9G - SG90</li>
 </ul>
 <p>Foram utilizadas as seguines bibliotecas:</p>
 <ul>
@@ -72,3 +74,4 @@
   <li>stdbool.h</li>
   <li>nvs_flash.h</li>
 </ul>
+<p>Datasheets dos componentes utilizados: <a href="https://github.com/rafaelacirino/SistemasEmbarcados/tree/master/Datasheets"> aqui</a>.</p>
