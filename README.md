@@ -79,6 +79,13 @@
 <p><b>Resultados</b></p>
 <br>
 <p>Neste projeto foi possível a elaboração de um protótipo com a funçãod e realizar o controle de temperatura e umidade em um ambiente, além disso, o sistema dispara alertas para umidades abaixo das permitidas ou temperaturas fora do range estabelecido. Para isso, foi instalado um buzzer e sensores de monitoramento e o uso do wifi para conexão e troca de informações.</p>
+<p>Na elaboração do projeto, foi o processo que enfrentou-se alguns obstáculos, como:</p>
+<ul>
+  <li>Dificuldade em ligar os sensores com o ESP-IDF;</li>
+  <li>Impossibilidade em conectar a aplicação com o telegram;</li>
+  <li>Falta de maturidade com a plataforma ESP-IDF e pouca experiência com o ESP-32 o que dificultou o desenvolvimento do projeto;</li>
+  <li>Pouco material explicativo em relação a conexão do ESP-IDFR com o Telegram.</li>
+</ul>
 <br>
 <p>Relatório do projeto em pdf: <a href="https://github.com/rafaelacirino/SistemasEmbarcados/blob/master/Relat%C3%B3rio/Relat%C3%B3rio.pdf"> aqui</a>.</p>
 <br>
@@ -87,6 +94,8 @@
 <p>Circuito elétrico e esquema elétrico: <a href="https://github.com/rafaelacirino/SistemasEmbarcados/tree/master/Circuito%20El%C3%A9trico"> aqui</a>.</p>
 <br>
 <p>Fluxograma do projeto: <a href="https://github.com/rafaelacirino/SistemasEmbarcados/blob/master/Diagrama%20de%20Blocos/Diagrama%20Proj%20Sist_Emb.pdf"> aqui</a>.</p>
+<br>
+<p>Códigos utilizados para elaboração do projeto: <a href="https://github.com/rafaelacirino/SistemasEmbarcados/tree/master/C%C3%B3digos">aqui</a>.</p>
 <br>
 <p><b>Conclusão</b></p>
 <br>
