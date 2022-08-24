@@ -75,3 +75,19 @@
   <li>nvs_flash.h</li>
 </ul>
 <p>Datasheets dos componentes utilizados: <a href="https://github.com/rafaelacirino/SistemasEmbarcados/tree/master/Datasheets"> aqui</a>.</p>
+<br>
+<p><b>Resultados</b></p>
+<br>
+<p>Neste projeto foi possível a elaboração de um protótipo com a funçãod e realizar o controle de temperatura e umidade em um ambiente, além disso, o sistema dispara alertas para umidades abaixo das permitidas ou temperaturas fora do range estabelecido. Para isso, foi instalado um buzzer e sensores de monitoramento e o uso do wifi para conexão e troca de informações.</p>
+<br>
+<p>Relatório do projeto em pdf: <a href=""> aqui</a>.</p>
+<br>
+<p>Diagrama de blocos: <a href=""> aqui</a>.</p>
+<br>
+<p>Circuito elétrico: <a href=""> aqui</a>.</p>
+<br>
+<p>Fluxograma do projeto: <a href=""> aqui</a>.</p>
+<br>
+<p><b>Conclusão</b></p>
+<br>
+<p>Controlar a umidade e temperatura de um ambiente mostrou-se relevante tendo em vista que com seu controle pode-se realizar diversas atividades e determinar se está na época ideal de cultivo, por exemplo. Ressalta-se que o controle na qualidade dos ambientes tem sua importância em caracterizar a presença/ausência de vapor d'água no ar seco: a umidade absoluta (w) e a umidade relativa (UR). Em ambientes controlados por este tipo de instalação o controle de temperatura e umidade pode ser desta forma, adequado para seres vivos com o parâmetro que não haja desconforto e risco para saúde.</p>
