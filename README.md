@@ -1,7 +1,7 @@
 ![logo IFPB](https://github.com/rafaelacirino/prototipagem/blob/main/logo_campus.png)<br>
 <h6>INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA PARAÍBA</h6>
 <h6>BACHARELADO EM ENGENHARIA DA COMPUTAÇÃO</h6>
-<h6>DISCIPLINA: TÉCNICAS DE PROTOTIPAGEM</h6>
+<h6>DISCIPLINA: SISTEMA EMBARCADOS</h6>
 <h6>DOCENTE: ALEXANDRE SALES VASCONCELOS</h6>
 <br>
 <br>
@@ -48,5 +48,27 @@
 </ul></p>
 <p>Dessa forma, além de acompanhar os dados, foi passível levantar dados sobre a umidade do ambiente analisado. O diferencial encontra-se na utilização do sensor para realizar a verificação da temperatura do ambiente como também, a umidade.</p>
 <br>
-<p><b>Atividades Executadas</b></p>
+<p><b>Materiais e Métodos</b></p>
 <br>
+<p>Para elaboração deste projeto, foi utilizado o Eclipse para codificação do projeto, e utilizamos também:
+<ul>
+  <li>Microcontrolador ESP32 Wifi;</li>
+  <li>Sensor DHT11 com módulo;</li>
+  <li>Sensor ultrassônico HC-SR04;</li>
+  <li>LEDs para identificação de status.</li>
+</ul>
+<p>Foram utilizadas as seguines bibliotecas:</p>
+<ul>
+  <li>freertos/FreeRTOS.h</li>
+  <li>freertos/event_groups.h</li>
+  <li>freertos/task.h</li>
+  <li>esp_err.h</li>
+  <li>esp_log.h</li>
+  <li>esp_wifi.h</li>
+  <li>esp_system.h.h</li>
+  <li>driver/gpio.h</li>
+  <li>lwip/netdb.h</li>
+  <li>dht.h</li>
+  <li>stdbool.h</li>
+  <li>nvs_flash.h</li>
+</ul>
