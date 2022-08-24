@@ -84,7 +84,7 @@
 <br>
 <p>Diagrama de blocos: <a href="https://github.com/rafaelacirino/SistemasEmbarcados/blob/master/Diagrama%20de%20Blocos/Diagrama%20Proj%20Sist_Emb.pdf"> aqui</a>.</p>
 <br>
-<p>Circuito elétrico: <a href="https://github.com/rafaelacirino/SistemasEmbarcados/tree/master/Circuito%20El%C3%A9trico"> aqui</a>.</p>
+<p>Circuito elétrico e esquema elétrico: <a href="https://github.com/rafaelacirino/SistemasEmbarcados/tree/master/Circuito%20El%C3%A9trico"> aqui</a>.</p>
 <br>
 <p>Fluxograma do projeto: <a href="https://github.com/rafaelacirino/SistemasEmbarcados/blob/master/Diagrama%20de%20Blocos/Diagrama%20Proj%20Sist_Emb.pdf"> aqui</a>.</p>
 <br>
